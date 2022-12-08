@@ -1,3 +1,4 @@
+# !!!!Rinkeby Chain is deprecated.
 # BuildSpace x ThirdWeb - Create your own DAO with only Javascript!
 
 ### **Welcome 👋**
